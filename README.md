@@ -8,3 +8,4 @@ STEP 2: Uninstall malicious programs from your computer
 STEP 3: Remove malicious browser policies from Windows
 
 Step3 is enought to solve the problem after running the .bat file.
+If not work, uninstall chrome then re-install
